@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student CRUD</string>
+
+    <string name="title_name">Student Name :</string>
+    <string name="name_hint">Name…</string>
+    <string name="stu_gender">Select Gender</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="btn_submit">Submit</string>
+    <string name="noDataAvailable">No Data Available</string>
+
+    <string name="content_des">abc</string>
+</resources>
